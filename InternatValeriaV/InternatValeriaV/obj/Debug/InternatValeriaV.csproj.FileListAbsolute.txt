@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\bin\Debug\InternatValeriaV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\bin\Debug\InternatValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\bin\Debug\InternatValeriaV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.frmHelloWorldInternational.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\InternatValeriaV\InternatValeriaV\obj\Debug\InternatValeriaV.pdb

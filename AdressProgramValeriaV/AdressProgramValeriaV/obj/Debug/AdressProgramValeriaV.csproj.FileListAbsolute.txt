@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\bin\Debug\AdressProgramValeriaV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\bin\Debug\AdressProgramValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\bin\Debug\AdressProgramValeriaV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.frmAddressProgram.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\AdressProgramValeriaV\AdressProgramValeriaV\obj\Debug\AdressProgramValeriaV.pdb

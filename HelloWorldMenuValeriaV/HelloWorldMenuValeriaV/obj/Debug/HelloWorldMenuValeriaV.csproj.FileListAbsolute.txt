@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\bin\Debug\HelloWorldMenuValeriaV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\bin\Debug\HelloWorldMenuValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\bin\Debug\HelloWorldMenuValeriaV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.frmHelloWorldMenu.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Introduction\HelloWorldMenuValeriaV\HelloWorldMenuValeriaV\obj\Debug\HelloWorldMenuValeriaV.pdb

@@ -1,0 +1,9 @@
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\bin\Debug\HelloWorldValeriaV.exe.config
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\bin\Debug\HelloWorldValeriaV.exe
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\bin\Debug\HelloWorldValeriaV.pdb
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.csprojResolveAssemblyReference.cache
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.frmHeloWorld.resources
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.Properties.Resources.resources
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.csproj.GenerateResource.Cache
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.exe
+C:\Users\s449619\Documents\ICS3U ValeriaV\Introduction\HelloWorldValeriaV\HelloWorldValeriaV\obj\Debug\HelloWorldValeriaV.pdb
